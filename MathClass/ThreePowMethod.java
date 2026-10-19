@@ -10,7 +10,14 @@ class ThreePowMethod{
 		powerValues=sc.nextInt();
 		
 		double output=Math.pow(baisevalues,powerValues);
-		
-		System.out.println(output);
-	}
+		if(baisevalues==2){
+			System.out.println("Squr"+output);
+		}
+		else
+		{
+			System.out.println("other:"+output);
+
+		}
+	}	
+	
 }

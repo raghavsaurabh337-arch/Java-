@@ -4,7 +4,7 @@ class Array
 		String[] mystring={"saurabh","raghav"};
 		mystring[1]="thakur";
 	
-		System.out.println(mystring[1]);
+		System.out.println(mystring[0]);
 		
 	}
 }

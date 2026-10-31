@@ -1,0 +1,23 @@
+Part 1: Beginner (1–7)
+1. Create an array and print all elements.
+2. Take array size and elements from the user.
+3. Find the sum of all array elements.
+4. Find the average of array elements.
+5. Find the largest element in an array.
+6. Find the smallest element in an array.
+7. Count even and odd numbers in an array.
+Part 2: Intermediate (8–14)
+8. Print array elements in reverse order.
+9. Copy one array into another array.
+10. Search an element in an array.
+11. Count positive, negative and zero elements.
+12. Find the second-largest element in an array.
+13. Find the second-smallest element in an array.
+14. Count the frequency of a given element in an array.
+Part 3: Hard (15–20)
+15. Remove duplicate elements from an array.
+16. Sort array elements in ascending order.
+17. Sort array elements in descending order.
+18. Find all duplicate elements in an array.
+19. Merge two arrays into a third array.
+20. Move all zeros to the end of an array.

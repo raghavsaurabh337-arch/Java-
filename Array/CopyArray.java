@@ -9,7 +9,7 @@ class CopyArray{
 		for(int i=0;i<array.length;i++){
 			array2=array[i];
 		}
-		System.out.pritnln(array2);
+		System.out.pritnln(array2);    
 		
 	}
 }

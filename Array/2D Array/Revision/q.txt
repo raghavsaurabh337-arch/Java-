@@ -1,0 +1,30 @@
+Beginner Level (1–5)
+1. Write a Java program to declare and print a 2D array (3×3 matrix).
+
+2. Write a Java program to take input from the user and print a 2D array.
+
+3. Write a Java program to find the sum of all elements in a 2D array.
+
+4. Write a Java program to find the largest element in a 2D array.
+
+5. Write a Java program to find the smallest element in a 2D array.
+Intermediate Level (6–10)
+6. Write a Java program to count even and odd numbers in a 2D array.
+
+7. Write a Java program to calculate the sum of each row in a 2D array.
+
+8. Write a Java program to calculate the sum of each column in a 2D array.
+
+9. Write a Java program to find the diagonal elements of a 3×3 matrix.
+
+10. Write a Java program to find the sum of both diagonals of a square matrix.
+Hard Level (11–15)
+11. Write a Java program to transpose a matrix.
+
+12. Write a Java program to add two matrices.
+
+13. Write a Java program to subtract two matrices.
+
+14. Write a Java program to multiply two matrices.
+
+15. Write a Java program to check whether a matrix is an identity matrix.

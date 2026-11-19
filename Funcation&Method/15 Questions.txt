@@ -1,0 +1,20 @@
+Java Functions – 15 Questions
+
+Beginner Level (1–5)
+1. Create a function that prints "Hello Java".
+2. Create a function that takes two numbers and prints their sum.
+3. Create a function that checks whether a number is even or odd.
+4. Create a function that takes a number and returns its square.
+5. Create a function that takes two numbers and returns the largest number.
+Intermediate Level (6–10)
+6. Create a function that checks whether a number is prime or not.
+7. Create a function that calculates the factorial of a number.
+8. Create a function that reverses a given number.
+9. Create a function that counts the digits of a number.
+10. Create a function that checks whether a number is a palindrome.
+Advanced Level (11–15)
+11. Create a function that finds the largest element in an array.
+12. Create a function that calculates the sum of all array elements.
+13. Create a function that counts vowels in a string.
+14. Create a function that sorts an array in ascending order.
+15. Create a function that checks whether a string is a palindrome.

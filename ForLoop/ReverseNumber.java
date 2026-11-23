@@ -12,7 +12,7 @@ class ReverseNumber{
 			System.out.println("reverse"+reverse);
 			number=number/10;
 			System.out.println("number"+number);
-		}
+		} 
 		number=reverse;
 		System.out.println(number);
 	}

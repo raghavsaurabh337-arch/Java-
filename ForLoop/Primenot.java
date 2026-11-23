@@ -7,7 +7,7 @@ class Primenot{
 		int number=sc.nextInt();
 		int count;
 		for(int i=1;i<=number;i++){
-			if(number%i==0 && number%i=1){
+			if(number%i==0 ){
 				System.out.println(i+"number is prime");
 				
 			}

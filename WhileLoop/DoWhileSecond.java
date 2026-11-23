@@ -6,6 +6,6 @@ class DoWhileSecond
 			System.out.println(countdown);
 			countdown--;
 		}while(countdown>=1);
-		System.out.println("Happy new year");
+		System.out.println("Happy new year!!");
 	}
 }

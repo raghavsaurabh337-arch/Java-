@@ -1,3 +1,5 @@
+//2. Find the sum of all array elements.
+
 import java.util.*;
 class UserInputSum{
 	public static void main(String[] args){
@@ -7,13 +9,12 @@ class UserInputSum{
 		 System.out.print("enter the valuse for user:");
 		for(int i=0;i<arr.length;i++){
 			
-			 arr[i]=sc.nextInt();
-			
+			 arr[i]=sc.nextInt();			
 		}
 		System.out.println("valuse:");
 
 		for(int i=0;i<arr.length;i++){
-			//System.out.println(arr[i]);
+			System.out.println(arr[i]);
 		
 		sum+=arr[i];
 

@@ -8,6 +8,7 @@ class SecondLargest{
 		
 		int secondlargest = array[0];
 		System.out.println(secondlargest);
+		
 		for(int i=0;i<array.length;i++){
 			if(array[i]>largest){
 				secondlargest=largest;

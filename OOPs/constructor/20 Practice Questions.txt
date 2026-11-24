@@ -1,0 +1,26 @@
+Java Constructor – 20 Practice Questions
+
+Basic Level
+1. Create a Student class and print "Hello Student" using a default constructor.
+2. Create a Student class and print the student's name using a constructor.
+3. Create an Employee class and initialize id and name using a constructor.
+4. Create a Car class and initialize brand and price using a constructor.
+5. Create a Mobile class and initialize name, price, and RAM using a constructor.
+Parameterized Constructor
+6. Create a Rectangle class and calculate the area using length and breadth.
+7. Create a Circle class and calculate the area using radius.
+8. Create a BankAccount class and initialize account holder name and balance.
+9. Create a Book class and initialize title, author, and price.
+10. Create a Product class and calculate total price using quantity and price.
+Constructor Overloading
+11. Create a class with both default and parameterized constructors.
+12. Create a Student class with default and parameterized constructors.
+13. Create three overloaded constructors: one with no parameters, one with one parameter, and one with two parameters.
+14. Create an Employee class using constructor overloading.
+15. Create a Box class and calculate volume using constructor overloading.
+Advanced Level
+16. Create a Student class and use the this keyword inside the constructor.
+17. Create a class where one constructor calls another constructor using this().
+18. Create a Person class and validate age using a constructor. If age is negative, print "Invalid Age".
+19. Create a Bank class with a constructor to initialize balance and methods to deposit and withdraw money.
+20. Create a Student class and create three objects with different names, roll numbers, and marks. Print all student details.

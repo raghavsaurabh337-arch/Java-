@@ -1,0 +1,47 @@
+# Java Modifiers
+
+Types of Java Modifiers
+
+**1. Access Modifiers**
+
+		i. public: Accessible from anywhere.
+
+		ii. private: Accessible only within the same class.
+
+		iii. default: Accessible within the same package.
+
+		iv. protected: Accessible within the same package and child classes.
+
+**2. Non-Access Modifiers**
+
+			i. final: Cannot be changed or modified.
+
+			ii. static: Belongs to the class, not an object.
+
+			iii. abstract: Used to create incomplete classes and methods.
+			
+			
+			
+   simapel tetxt mai
+Java Access Modifiers – 10 Questions
+
+1. Create a Student class with a public variable name and print it.
+
+2. Create an Employee class with a private variable salary and access it inside the same class.
+
+3. Create two classes A and B. Declare a default variable in class A and access it from class B.
+
+4. Create a Person class with a protected variable age and access it from another class in the same package.
+
+5. Create a Car class with private variables brand and price. Print them using a method.
+
+6. Create a BankAccount class with a private variable balance. Access it using a public getter method.
+
+7. Create a parent class Animal with a protected variable name. Create a child class Dog and access the variable.
+
+8. Create a Mobile class with a public method and a private method. Call both methods inside the same class.
+
+9. Create a School class with a default variable schoolName. Access it from another class in the same package.
+
+10. Create an Account class with a private variable accountNumber. Try to access it directly from another class and observe the error.			
+			
